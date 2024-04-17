@@ -7,5 +7,5 @@ This proyect is created for me to show everything i've learned so far. Among tha
 <li>-How to add hyperlinks </li>
 <li>-How to add images</li>
 <li>-I'm also supposed to know how to Commit, but if i'm being very honest, 
-idk wth am i doing every time i touch git</li>
+idk wth am i doing every time i touch git</li> UPDATE: i might be getting the hang of it
 </ul>
