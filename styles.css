@@ -1,0 +1,53 @@
+/*styles.css*/
+
+*{
+    font-family: "Verdana", sans-serif;
+}
+
+/*index*/
+
+.index{
+    background-color: rgb(34, 39, 39);
+
+}
+.titulo{
+    text-align: center;
+    line-height: 50px;
+    color: rgb(229, 236, 192);
+}
+
+.recetas li, a{
+    color:yellowgreen;
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    line-height: 30px;
+}
+
+
+/*recetas*/
+.pag-recetas{
+    background-color: rgb(78, 32, 40);
+    color: rgb(203, 188, 168);
+}
+
+.centro{
+    text-align: center;
+}
+
+.centro-img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nombre-rec{
+    color: rgb(227, 179, 134);
+    text-align: center;
+}
+
+
+.subtitulo{
+    color: bisque;
+}
+}
