@@ -2,6 +2,7 @@
 
 *{
     font-family: "Verdana", sans-serif;
+    box-sizing: border-box;
 }
 
 /*index*/
@@ -9,6 +10,14 @@
 .index{
     background-color: rgb(34, 39, 39);
 
+}
+
+.inicio{
+    background-color: rgba(250, 235, 215, 0.126);
+    padding: 20px;
+    height: auto ;
+    width: 300px;
+    margin: 0 auto;
 }
 .titulo{
     text-align: center;
@@ -21,9 +30,24 @@
     text-decoration: none;
     list-style: none;
     text-align: center;
+    padding: 8px;
+}
+/*not yet pat of the curriculum but I saw it on one 
+of the assignment links and wanted to try it*/
+.recetas li, a:hover { 
+    color:rgb(220, 180, 18);
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
     line-height: 30px;
+    padding: 8px;
 }
 
+.inicio_boton{
+    background-color:rgba(35, 122, 159, 0.45);
+    padding: 0px;
+    margin: 10px;
+}
 
 /*recetas*/
 .pag-recetas{
@@ -45,7 +69,6 @@
     color: rgb(227, 179, 134);
     text-align: center;
 }
-
 
 .subtitulo{
     color: bisque;
