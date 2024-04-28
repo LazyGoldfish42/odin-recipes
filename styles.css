@@ -3,7 +3,7 @@
 *{
     font-family: "Verdana", sans-serif;
     box-sizing: border-box;
-}
+    
 
 /*index*/
 
@@ -24,13 +24,15 @@
     line-height: 50px;
     color: rgb(229, 236, 192);
 }
-
+.recetas { /*elimina sangría a la izquierda*/
+    padding: 0px;
+}
 .recetas li, a{
     color:yellowgreen;
     text-decoration: none;
     list-style: none;
     text-align: center;
-    padding: 8px;
+    padding: 0px;
 }
 /*not yet pat of the curriculum but I saw it on one 
 of the assignment links and wanted to try it*/
